@@ -1,0 +1,10 @@
+Language: python2.6(PyQt4)
+OS: linux/windows 
+
+Usage:
+1. python CoolBall.py (for linux, if you have installed python and PyQt4) 
+2. double click CoolBall.py (for windows, if you have installed python and PyQt4)
+3. double click CoolBall.exe (for windows)
+
+Source Code:
+CoolBall.py
